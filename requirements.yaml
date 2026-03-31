@@ -1,0 +1,10 @@
+packages:
+  "framer-motion": "For page transitions, cart drawer sliding, and success checkmark animation"
+  "zustand": "For reliable global state management for Cart, Auth, and Referral discounts"
+  "date-fns": "For formatting order dates and timeline"
+  "@hookform/resolvers": "For zod validation in forms"
+
+notes:
+  - App relies on generated API client in @workspace/api-client-react
+  - Products are statically defined as requested but integrate fully with the order API
+  - Authentication state is persisted in localStorage via Zustand

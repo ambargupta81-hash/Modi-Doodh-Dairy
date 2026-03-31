@@ -1,0 +1,94 @@
+A simple dairy app where I can sell ghee matha dudh dahi cream aur Makhan khoa etc at suitable price with ease by only cod upi accepted and simple interface order and have system like amazon to login and order products and have customer support services by chats and calls on Gmail and order history and have feedback of products system like amazon and have search bars and all products are main don't forget to add it and all over India app is valid like amazon and refer and earn system and cancel and return order system like amazon same as like amazon but have only these 9 products available in it a. Simple app with attractive smooth design with dairy images and use rgb mixerv colour mostly.
+ All features like amazon and zomato you have to add in it Exact Amazon Swiggy jaisa banana iish app ko plz smj gayo ho tum kya
+
+And full app in english should be made except products name and use the simple image of the products from Google plz
+ All required documents are included in the image with payment system what ut should be like
+
+ Also send notifications if orders with f4710301@gmail.com this email also as well as I sent you earlier in both notifications should be sent of orders and customers feedback and demands ok
+--------------------
+Take these rates and uses these simple images for them like that I send you in it and make sure all products have image and name and there is problems in placing order so you only make sure that if customers ordered any of them then the all details of orders and customers will be sent to email that I have send you and diary name is Modi doodh diary
+
+ If customers add something in cartoon there may be floating icon of it so that they know where to place the order in it
+
+They can cancel and return order and after placing order they show a tick wallpaper like flipkart have
+Oh I forgot that Please make sure after ordering there is no error to be shown instead a tick icon like flipkart and order request is sent to given gmail and helpline number and gmail also. Are same
+---------------------
+Not pasting the same image in all of them plz took simple different images of them forget I sent a image of it
+
+If it can more improve if not then modify it the changes I tell or it was already done
+-------------------
+ add grams system means customer can buy according to their needs in grand not kgs for perfect fraction of kg for rupees not always same and only when Payment is successful online only then show yes I have payment only not shown before payment and refer and earn 5 rupees me karo and delivery charges vanshes upto 700 rupees and delivery charges 30 rupees hai ok
+-----------------------
+Delivery charges 30 min honge but according to different places these can vary. According to travelling and storages expenses and delivery may can take variable time so plz aware of it
+Please post it when customer ordering it post this note before payment options and even after ordering it from anywhere
+
+Important Note :- delivery charges may vary accordingly to your city and locations. and it may also take variable time to deliver your order accordingly to your locations. So, plz aware of it and don't be irritated by it. Ab email will be sent to you regarding the delivery charges and its delivery time. And you can contact and track your order by messaging or calling the phone number that you will provided in the email.
+
+Add this important note instead of you have put in it in very important tone in always cart sections plz
+------------------
+the product rates are
+paneer 360
+dahi 100
+ghee 750
+matar 120
+creem 400
+makhan 450
+matha 20
+dudh 60
+Khoa 320 
+lassi 120
+-----------
+you have to put the images correctly according to thire respective products take help of google for it to only identify them not directly put form google understand 
+---------------------
+Replace placeholder images with actual dairy product photos - from which i have sent you for all 10 products (Paneer, Dahi, Ghee, Matar, Cream, Makhan, Matha, Dudh, Khoa, Lassi) matching the Modi Doodh Dairy brand aesthetic
+
+Implement order cancellation and return request features with status updates, allowing customers to cancel pending orders or request returns for delivered orders with confirmation dialogs
+
+Create product rating and review system where customers can leave star ratings (1-5) and written feedback on products they have purchased, visible on product detail pages
+
+Enable OnSpace Cloud backend and implement sreal email notifications to f4710301@gmail.com and sahusobhit51@gmail.com plus WhatsApp messages to +919575364720 when customers place orders, including all order details, customer info, and delivery address
+----------------
+3. Order Status Update: Only when customer clicks "Yes, I have paid":
+ * Order status changes to 'Submitted'
+ * Order is confirmed in the system
+4. Send Order Details to Customer: Immediately after confirmation, send:
+ * WhatsApp: Order details to +919575364720
+ * Email: Order details to sahusobhit51@gmail.com
+f4710301@gmail.com
+5. What the customer receives:
+ * Order number
+ * Order items and quantities
+ * Total amount paid
+ * Delivery address
+ * Expected delivery date
+ * Payment confirmation
+1. WhatsApp Notification: After successful payment, send order details (order number, customer info, products, total amount, delivery address) to the WhatsApp number +919575364720
+2. Email Notification: Send the same order details to sahusobhit51@gmail.com
+3. f4710301@gmail.com
+3. When to trigger: After payment is successfully completed on the payment page
+4. What to include in the notification:
+ * Order number
+ * Customer name and phone
+ * Order items (product names, quantities, prices)
+ * Total amount
+ * Delivery address/state
+ * Payment method
+ * Order date
+4. Order Notifications (as previously discussed):
+ * Order details sent to WhatsApp: +919575364720
+ * Order details sent to email: sahusobhit51@gmail.com
+f4710301@gmail.com
+ * Customer receives confirmation on their phone/email
+---------------
+ Implement local push notifications for order status updates (Submitted → Shipped → Delivered) so customers get notified on their phone when their Modi Doodh Dairy order status changes.
+
+Add a UPI payment QR code screen in the checkout flow that shows a scannable QR code for the UPI ID f4710301@gmail.com so customers can pay easily by scanning it with any UPI app.
+
+Add a visual order tracking timeline in order detail view showing status steps: Order Placed → Confirmed → Processing → Shipped → Delivered with timestamps and progress indicators.
+
+Email problems didnot solved yet even after losing my 500 credits so plz atleast send order notifications with all details that I have provided to f4710301@gmail.com whose password is Trunks@123 and whose app is in the image attached now plz plz fix this problem plz
+
+Place a test order in the app and confirm it goes through to verify f4710301@gmail.com and sahusobhit51@gmail.com both receive the order notification email with all details.
+And if failed then again I saying fix it as i had give you api key of it plz
+
+fix all the errors found yet and recheck the emails and phone no. order notification system is working or not
